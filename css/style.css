@@ -1,0 +1,9 @@
+.bg-box {
+    width: 1200px;
+    height: 720px;
+    background-color: green;
+    background-image: url(../img/pole-zelen-trava-dom-derevya.webp), url(../img/green-png-44873.png), url(../img/lamp-png-34914.png), url(../img/3F3F.webp), url(../img/donut.png);
+    background-size: auto, 300px, 45px, 35px, 35px;
+    background-position: center, bottom, top, left, right;
+    background-repeat: no-repeat, repeat-x, repeat-x, repeat-y, repeat-y;
+}
